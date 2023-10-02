@@ -32,5 +32,4 @@ while langue =="":
                 print("Number of trials : %d"%(essai))
                 print("You lost")
 
-            continuer = input("\nType '0' to continue or other to quit: ")
-
+            continuer = input("\nType 'o' to continue or other to quit: ")
